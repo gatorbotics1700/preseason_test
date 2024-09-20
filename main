@@ -1,0 +1,6 @@
+public class HelloWorld{
+    public static void main(String[] args){
+        HelloWorld hey = new HelloWorld();
+        HelloWorld.hello();
+    }
+}
