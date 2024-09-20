@@ -4,6 +4,7 @@ public class HelloWorld {
     }
     public static void helloWorld(){
         System.out.println("\nHello World\n");
+        System.out.println("Use this as an example for your own branch!\n");
     }
     
 }
